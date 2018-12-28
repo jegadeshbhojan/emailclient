@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:10:38:04 +0530] "GET / HTTP/1.1" 200 285 http-bio-9090-exec-2 1047
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:10:38:04 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9090-exec-3 4
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:10:38:07 +0530] "GET /contact?action=listContact HTTP/1.1" 200 784 http-bio-9090-exec-5 646
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:10:38:09 +0530] "GET /contact?action=insert HTTP/1.1" 200 1152 http-bio-9090-exec-7 127
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:10:38:09 +0530] "GET /css/ui-lightness/jquery-ui-1.8.18.custom.css HTTP/1.1" 404 1039 http-bio-9090-exec-8 1
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:10:38:09 +0530] "GET /js/jquery-1.7.1.min.js HTTP/1.1" 404 995 http-bio-9090-exec-6 1
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:10:38:09 +0530] "GET /js/jquery-ui-1.8.18.custom.min.js HTTP/1.1" 404 1017 http-bio-9090-exec-9 1
+0:0:0:0:0:0:0:1 - - [24/Sep/2018:10:38:15 +0530] "POST /contact?action=saveorupdate HTTP/1.1" 500 1868 http-bio-9090-exec-3 69
